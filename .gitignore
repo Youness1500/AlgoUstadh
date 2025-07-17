@@ -1,0 +1,12 @@
+agents/
+backend/
+data/
+docs/
+frontend/
+*.py
+*.md
+*.txt
+*.pyc
+*.json
+*.db
+*.sql
