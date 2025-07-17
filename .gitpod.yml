@@ -1,0 +1,3 @@
+tasks:
+  - init: echo "welcome to ALGOOUSTADH app"
+    command : df -h
