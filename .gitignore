@@ -5,7 +5,7 @@ docs/
 frontend/
 *.py
 *.md
-*.txt
+*.env
 *.pyc
 *.json
 *.db
